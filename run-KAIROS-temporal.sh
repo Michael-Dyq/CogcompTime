@@ -9,5 +9,5 @@ export CUDA_VISIBLE_DEVICES=-1;
 #done
 while [ 1 -eq 1 ]
 do
-    python server.py leguin.seas.upenn.edu 4024
+    python server.py 0.0.0.0 4024
 done

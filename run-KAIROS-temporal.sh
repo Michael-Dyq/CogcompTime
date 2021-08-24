@@ -8,5 +8,5 @@ export CUDA_VISIBLE_DEVICES=-1;
 #    python server.py 1 4024
 #done
 do
-    python server.py dickens.seas.upenn.edu 4024
+    python server.py leguin.seas.upenn.edu 4024
 done
